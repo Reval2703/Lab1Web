@@ -13,4 +13,7 @@ Paragraf dapat di ubah posisinya sesuai dengan menambahkan align="" yang di tamb
 ![alt text](https://github.com/Reval2703/Lab1Web/blob/main/3.png?raw=true)
 
 3. Menambahkan Format Pada Text Dengan Menggunakan Tag Formatting
+![alt text](https://github.com/Reval2703/Lab1Web/blob/main/4.png?raw=true)
+
+4. Menambahkan Gambar Pada Web Dengan Menggunakan Tag
 ![alt text](?raw=true)
