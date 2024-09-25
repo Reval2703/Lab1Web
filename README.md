@@ -10,4 +10,7 @@ Paragraf dapat di ubah posisinya sesuai dengan menambahkan align="" yang di tamb
 ![alt text](https://github.com/Reval2703/Lab1Web/blob/main/2.png?raw=true)
 
 2. Menambahkan Judul Pada Web
+![alt text](https://github.com/Reval2703/Lab1Web/blob/main/3.png?raw=true)
+
+3. Menambahkan Format Pada Text Dengan Menggunakan Tag Formatting
 ![alt text](?raw=true)
