@@ -19,4 +19,4 @@ Paragraf dapat di ubah posisinya sesuai dengan menambahkan align="" yang di tamb
 ![alt text](https://github.com/Reval2703/Lab1Web/blob/main/5.png?raw=true)
 
 5. Menambah Hyperlink
-![alt text](?raw=true)
+![alt text](https://github.com/Reval2703/Lab1Web/blob/main/6.png?raw=true)
