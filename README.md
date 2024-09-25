@@ -16,4 +16,7 @@ Paragraf dapat di ubah posisinya sesuai dengan menambahkan align="" yang di tamb
 ![alt text](https://github.com/Reval2703/Lab1Web/blob/main/4.png?raw=true)
 
 4. Menambahkan Gambar Pada Web Dengan Menggunakan Tag
+![alt text](https://github.com/Reval2703/Lab1Web/blob/main/5.png?raw=true)
+
+5. Menambah Hyperlink
 ![alt text](?raw=true)
